@@ -1,4 +1,9 @@
 # Alteryx_Challenges
+<p>Weekly Alteryx challenges are posted to Alteryx Community. Below are some of my solutions. </p>
+<p>
+ <a href="https://community.alteryx.com/t5/Weekly-Challenges/Weekly-Challenge-Index-amp-Welcome-Page-1/td-p/48275">Weekly Challenge Index 1</a> | 
+ <a href="https://community.alteryx.com/t5/Weekly-Challenges/Weekly-Challenge-Index-amp-Welcome-Page-2/td-p/1135098">Weekly Challenge Index 2</a>
+</p>
 
  <table>
   <tr>
