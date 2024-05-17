@@ -66,4 +66,14 @@
     <td><a href="https://github.com/dori104/Alteryx_Challenges/blob/main/2022/challenge_307_app.yxzp">Challenge 307</a></td>
     <td>Apps</td>
   </tr>
+  <tr>
+    <td>2024</td>
+    <td><a href="https://github.com/dori104/Alteryx_Challenges/blob/main/2024/Challenge_421_my_solution.yxzp">Challenge 421</a></td>
+    <td>Spatial, reporting</td>
+  </tr>
+  <tr>
+    <td>2024</td>
+    <td><a href="https://github.com/dori104/Alteryx_Challenges/blob/main/2024/challenge_422_my_solution.yxzp">Challenge 422</a></td>
+    <td>Transform</td>
+  </tr>
 </table> 
