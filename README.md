@@ -76,4 +76,9 @@
     <td><a href="https://github.com/dori104/Alteryx_Challenges/blob/main/2024/challenge_422_my_solution.yxzp">Challenge 422</a></td>
     <td>Transform</td>
   </tr>
+    <tr>
+    <td>2024</td>
+    <td><a href="https://github.com/dori104/Alteryx_Challenges/blob/main/2024/challenge_425_my_solution.yxzp">Challenge 425</a></td>
+    <td>Transform, multi-row</td>
+  </tr>
 </table> 
